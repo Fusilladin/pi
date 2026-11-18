@@ -1,0 +1,1 @@
+{"schema":1,"name":"local-noweb","track":"pinned","version":"1.2.0-original","provider":"strata","model":"qwen3.8-flash-next-iq3_xxs","tools":"read,bash,edit,write,grep,find,ls"}

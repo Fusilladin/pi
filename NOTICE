@@ -1,0 +1,3 @@
+Unofficial Pi runtime distribution, based on earendil-works/pi v1.5.2.
+Node.js v22.23.3 is included. See LICENSE, NODE-LICENSE and dependency notices.
+No source modifications to Pi.

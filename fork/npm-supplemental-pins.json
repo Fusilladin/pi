@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "reason": "Upstream release install lock omits integrity for first-party Pi packages. Exact registry version metadata supplies additional independently checked pins.",
+  "entries": [
+    {
+      "packagePath": "node_modules/@earendil-works/pi-agent-core",
+      "version": "1.5.2",
+      "url": "https://registry.npmjs.org/@earendil-works/pi-agent-core/-/pi-agent-core-1.5.2.tgz",
+      "integrity": "sha512-ie5mejS7mGfXt//9As7i3LfxVXdktZvF1JP4EQsUXTp4mU437h23MNGx7wXZ5VYs3YiG/Qnj3e7OZ2HC069OMw==",
+      "file": "earendil-works-pi-agent-core-1.5.2.tgz",
+      "sha256": "ae1ffb2b628f191e708fbbefc6f6639de75d9da46ef23eed5fb7aebcb1a4b66d"
+    },
+    {
+      "packagePath": "node_modules/@earendil-works/pi-ai",
+      "version": "1.5.2",
+      "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-1.5.2.tgz",
+      "integrity": "sha512-2tWPSnV3qzfiDIY3aWluBag3vC++Vs+VsXt/UquSU5onPMohPih72FUhIhaqmDdMYubOgB3Byl9uF4Vk40JLvQ==",
+      "file": "earendil-works-pi-ai-1.5.2.tgz",
+      "sha256": "d5715efa834c23bfdf10a042b49df4ee169cc99000bf16d7998fab2d533b45f8"
+    },
+    {
+      "packagePath": "node_modules/@earendil-works/pi-codemode",
+      "version": "1.5.2",
+      "url": "https://registry.npmjs.org/@earendil-works/pi-codemode/-/pi-codemode-1.5.2.tgz",
+      "integrity": "sha512-HoZQ40a9RgdZ1VgmrX6x8887cNXedaRJT1l+Ie5YRIMK4gY7v0EpsiNqf6dmixrKylZlTgUSyR+vE8xhjfkr+w==",
+      "file": "earendil-works-pi-codemode-1.5.2.tgz",
+      "sha256": "ac81bf4f4f01ede1a534d6d0fca1ab13afd66506c00904e9d5a07f590ae302e0"
+    },
+    {
+      "packagePath": "node_modules/@earendil-works/pi-coding-agent",
+      "version": "1.5.2",
+      "url": "https://registry.npmjs.org/@earendil-works/pi-coding-agent/-/pi-coding-agent-1.5.2.tgz",
+      "integrity": "sha512-mUWI04rqF1Vd/m1q+Ps1XeWsTXEVvRUnsmRa83I3Dzua0Tx5bYS93imeqtIfrXf7PkkaR6ERz+AuQhIJlom5yA==",
+      "file": "earendil-works-pi-coding-agent-1.5.2.tgz",
+      "sha256": "691bde186273b457d9d1c41d0fd47b57853b5e85ded1add1a1f6b78e66c261f4"
+    },
+    {
+      "packagePath": "node_modules/@earendil-works/pi-mcp",
+      "version": "1.5.2",
+      "url": "https://registry.npmjs.org/@earendil-works/pi-mcp/-/pi-mcp-1.5.2.tgz",
+      "integrity": "sha512-zU1UgeXDlbixPqGEWD7Ql0brEMIpYr7aEWjoEE5h5enJbM/kQ2jIr7lN8JoR80oUnq1fJSU7SC8kLx2Fx/IZYg==",
+      "file": "earendil-works-pi-mcp-1.5.2.tgz",
+      "sha256": "eabe928c88299e3ac53ed65d4df49612d9ed5fe3801066f7211db0db63b189c7"
+    },
+    {
+      "packagePath": "node_modules/@earendil-works/pi-schema",
+      "version": "1.5.2",
+      "url": "https://registry.npmjs.org/@earendil-works/pi-schema/-/pi-schema-1.5.2.tgz",
+      "integrity": "sha512-hJoyCXWUhsSrXY5wJo2Q4kHXUsR51pNhkJHAMkWRwVMLDRtMDPkKNaa+JlVRVqTw1hjdSxcVVaFLSDbKlaTXEQ==",
+      "file": "earendil-works-pi-schema-1.5.2.tgz",
+      "sha256": "5f351297ff74bec1ed4c6a974475ae41f194e023c14f0cf61a427e4fa17cf76a"
+    },
+    {
+      "packagePath": "node_modules/@earendil-works/pi-telemetry",
+      "version": "1.5.2",
+      "url": "https://registry.npmjs.org/@earendil-works/pi-telemetry/-/pi-telemetry-1.5.2.tgz",
+      "integrity": "sha512-m+cumjIqNh1aMISi/9ttcG3ZOwIdriPbz/eMyWmRMJCGa/WcgY1RX4lrb7HvsHhSfI/JUeBESA4nOCr8C3y5ow==",
+      "file": "earendil-works-pi-telemetry-1.5.2.tgz",
+      "sha256": "0d29dbee830c74af7115035c7cb326c1e9da2f690a3f6f95620597092da9f9ee"
+    },
+    {
+      "packagePath": "node_modules/@earendil-works/pi-tui",
+      "version": "1.5.2",
+      "url": "https://registry.npmjs.org/@earendil-works/pi-tui/-/pi-tui-1.5.2.tgz",
+      "integrity": "sha512-WK8ih+c88GWizaB79y7Pq3PV7ySf5VI1pZ1i/6aBBjDOAiG2EE3ojKjl+pxQqLfyQGnzHYu4VfakOBJgumuoyw==",
+      "file": "earendil-works-pi-tui-1.5.2.tgz",
+      "sha256": "2fdd7609ee61e7c275a528e32d62093c2c298d3f9254ad3048451df2063e6bda"
+    }
+  ]
+}
