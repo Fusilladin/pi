@@ -1,1 +1,6 @@
-{"schema":1,"name":"default","track":"latest-approved","version":"1.5.2-p0"}
+{
+  "schema": 1,
+  "name": "default",
+  "track": "latest-approved",
+  "version": "1.5.2-p3"
+}

@@ -21,7 +21,7 @@ Plain pi selects the approved default runtime and uses normal Pi configuration. 
 ```
 node fork/bin/forkctl.mjs profile-init --home "$HOME" --guard /absolute/path/to/jev-guard.ts
 node fork/bin/forkctl.mjs profile-run --home "$HOME" -- --print "Say hello"
-node fork/bin/forkctl.mjs profile-set-version --home "$HOME" --version 1.5.2-p0
+node fork/bin/forkctl.mjs profile-set-version --home "$HOME" --version 1.5.2-p3
 ```
 
 The source fork is maintained privately as a standalone repository before visibility is changed. GitHub public forks cannot be made private. Upstream refs remain available through the upstream remote in the maintenance checkout. No automatic bot pushes are enabled. Publish remains an explicit owner command after exact-commit approval and Linux install/update/rollback evidence.
@@ -35,3 +35,5 @@ node fork/bin/forkctl.mjs build --supply SUPPLY_DIR --stage NEW_STAGE --output N
 ```
 
 The distributed runtime has 267 raw privacy-pattern matches, all precisely classified as unchanged public upstream literals. fork/runtime-literals.json binds each match to its archive hash, filename, whole-file hash, exact offset, length, match digest and authenticated source archive. The blocklist remains unchanged. Unknown matches fail closed. No license attribution is removed.
+
+Release 1.5.2-p3: maintenance publisher uses compatible paginated draft discovery and exact-input publication checks. Upstream runtime source and patches remain pinned.

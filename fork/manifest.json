@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "fork": "pi",
-  "fork_version": "1.5.2-p0",
+  "fork_version": "1.5.2-p3",
   "upstream": {
     "repo": "earendil-works/pi",
     "tag": "v1.5.2",
